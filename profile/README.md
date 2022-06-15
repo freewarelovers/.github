@@ -1,5 +1,4 @@
-## A company that develops free, open source, and crowd driven community projects. With love & passion.
-
+## A company that develops free, open source, and crowd driven community projects. With love & passion. :heart: 👨‍💻 
 <!--
 
 **Here are some ideas to get you started:**
